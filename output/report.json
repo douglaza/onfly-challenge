@@ -1,0 +1,89 @@
+{
+  "report_version": "1.0",
+  "generated_at": "2026-11-11T23:05:42-03:00",
+  "summary": {
+    "total_reservations": 200,
+    "confirmed_reservations": 153,
+    "cancelled_reservations": 22,
+    "no_show_reservations": 25,
+    "total_room_nights": 909,
+    "total_amount_brl": "249543.79",
+    "average_nightly_rate_brl": "274.53"
+  },
+  "by_month": [
+    {
+      "month": "2024-12",
+      "reservations": 19,
+      "room_nights": 92,
+      "total_brl": "30943.80"
+    },
+    {
+      "month": "2025-01",
+      "reservations": 30,
+      "room_nights": 181,
+      "total_brl": "49139.50"
+    },
+    {
+      "month": "2025-02",
+      "reservations": 17,
+      "room_nights": 89,
+      "total_brl": "27769.85"
+    },
+    {
+      "month": "2025-03",
+      "reservations": 26,
+      "room_nights": 152,
+      "total_brl": "44924.90"
+    },
+    {
+      "month": "2025-04",
+      "reservations": 17,
+      "room_nights": 122,
+      "total_brl": "22856.98"
+    },
+    {
+      "month": "2025-05",
+      "reservations": 21,
+      "room_nights": 103,
+      "total_brl": "35693.91"
+    },
+    {
+      "month": "2025-06",
+      "reservations": 23,
+      "room_nights": 170,
+      "total_brl": "38214.85"
+    }
+  ],
+  "top_hotels": [
+    {
+      "hotel_id": "H10",
+      "hotel_name": "Hotel Madrid, Gran Vía",
+      "room_nights": 78,
+      "total_brl": "31494.51"
+    },
+    {
+      "hotel_id": "H06",
+      "hotel_name": "Hotel Salvador Centro",
+      "room_nights": 103,
+      "total_brl": "29808.70"
+    },
+    {
+      "hotel_id": "H12",
+      "hotel_name": "Hotel Miami Beach",
+      "room_nights": 73,
+      "total_brl": "25176.93"
+    },
+    {
+      "hotel_id": "H08",
+      "hotel_name": "Hotel Iguazu Falls",
+      "room_nights": 95,
+      "total_brl": "22101.42"
+    },
+    {
+      "hotel_id": "H03",
+      "hotel_name": "Hotel Serra Verde",
+      "room_nights": 88,
+      "total_brl": "20435.56"
+    }
+  ]
+}

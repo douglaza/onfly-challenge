@@ -10,6 +10,7 @@ coverage.xml
 htmlcov/
 output/*
 !output/.gitkeep
+!output/report.json
 dist/
 build/
 *.egg-info/
