@@ -16,4 +16,3 @@ build/
 .env
 .env.*
 .DS_Store
-entrega/*
